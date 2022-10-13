@@ -1,8 +1,8 @@
 '''
 Nombre: Isidro Lara López
 Fecha:  20 / sep /2022
-Descripción: Esto es un programa que introduces el nombre de la planta pero puedes ingresarlo
-con minuscalas y mayuscalas. 
+Descripción: Programa que introduces el nombre de la planta pero puedes ingresarlo
+con  mayuscalas o minusculas
 '''
 planta = (input('Introduce el nombre: '))
 if planta == 'espatifilo': 

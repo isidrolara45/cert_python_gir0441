@@ -1,7 +1,7 @@
 '''
 Nombre: Isidro Lara López
 Fecha:  6 / oct /2022
-Descripción: Esto es un programa que nos da una lista con datos pero lo que tenemos que hacer es 
+Descripción: Programa que nos da una lista con datos pero lo que tenemos que hacer es 
 mostrar la lista pero sin numeros repetidos. 
 '''
 my_list = [1, 2, 4, 4, 1, 4, 2, 6, 2, 9]
